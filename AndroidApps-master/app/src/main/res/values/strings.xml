@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="hint">Input ID</string>
+    <string name="button">SUBMIT</string>
+</resources>
